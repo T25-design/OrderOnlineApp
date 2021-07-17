@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_sign">Sign in</string>
+    <string name="hint_ConfirmPassword">Re-enter Password</string>
+    <string name="btn_Create">Create Account</string>
+    <string name="welcome_click_below_to_see_our_menu">Welcome,Our menu is given below:</string>
+    <string name="order_below">Order below</string>
+    <string name="add_to_list">ADD TO LIST</string>
+    <string name="order">ORDER</string>
+    <string name="generated_bill">Generated Bill :</string>
+    <string name="grand_total">Grand Total :</string>
+    <string name="pay">PAY</string>
+    <string-array name="roll_no">
+        <item>19CS01001</item>
+        <item>19CS01002</item>
+        <item>19CS01003</item>
+        <item>19CS01004</item>
+        <item>19CS01005</item>
+        <item>19CS01006</item>
+        <item>19CS01007</item>
+        <item>19CS01008</item>
+        <item>19CS01009</item>
+        <item>19CS01010</item>
+        <item>19CS01011</item>
+    </string-array>
+</resources>
